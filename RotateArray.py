@@ -17,6 +17,6 @@ def rightArr(Arr, y):
             a[x] = Arr[x-1]
         Arr = a
         print(a)
-        # for z in a:ed
+        # for z in a: TEST
         #     print(z)
 rightArr(inputArr, numbToRotate)
